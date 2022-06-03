@@ -1,0 +1,19 @@
+@font-face { 
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face { 
+    font-family: "MyriadProBold";
+    src: url("../fonts/MyriadProBold/MyriadProBold.eot");
+    src: url("../fonts/MyriadProBold/MyriadProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProBold/MyriadProBold.woff") format("woff"),
+    url("../fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins&display=swap');
